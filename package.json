@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "start": "node server.js"
+    },
+    "name": "enticing_entertainment",
+    "version": "0.0.1",
+    "dependencies": {
+        "activecampaign": "^1.2.5",
+        "express": "^4.16.4"
+    }
+}

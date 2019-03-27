@@ -1,0 +1,12 @@
+{
+    "name": "Betty Blue",
+    "description": "Testing ActiveCampaign API",
+    "version": "1.0.0",
+    "dependencies": {
+      "activecampaign": "*"
+    },
+    "engines": {
+      "node": ">=0.6.9"
+    },
+    "main": "./lib/ActiveCampaign"
+  }
