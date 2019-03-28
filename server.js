@@ -231,9 +231,7 @@ function indexFile(request, respense){
 
 
 
-var ActiveCampaign = require("activecampaign");
-
-var ac = new ActiveCampaign("clients.json");
+c
 
 // TEST API credentials
 ac.credentials_test().then(function(result) {
