@@ -114,7 +114,7 @@ function requestHandler(req, res){
 		req.on('end', function(){
 			// lets write it
 			tags[filefull]=-1
-			Fs.writeFile(filefull, Buffer(buf), function(err){
+			Fs.writeFile(filefull, Buffer.alloc(buf), function(err){
 				if(err){
 					console.log("Error saving ", filefull)
 					res.writeHead(500)
