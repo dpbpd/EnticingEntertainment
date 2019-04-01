@@ -1,5 +1,5 @@
 var arrayTest = ['Welcome to Enticing Entertainment', ' Care to creat your own adventure','Please make a selection below'];
-let secondArrayTest = ['This is a test ','to see how the text box', 'scales', 'to the amount of letters', 'as well as the length of the list'];
+let secondArrayTest = ['1: Hey Justen, click in this box', '2: This is a test ','3: to see how the text box', '4: scales', '5: to the amount of letters', '6: as well as the length of the list','7: and moves when you click on it'];
 let textB;
 let textHeader;
 setup=()=>{
