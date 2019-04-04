@@ -1,11 +1,20 @@
 {
 	"performers": [
 		{
-			"name": "bob",
-			"skills": [
-				"fire"
-
-			]
+			"name": "testName1",
+			"age": 23
+		},
+		{
+			"name": "testName2",
+			"age": 35
+		},
+		{
+			"name": "testName3",
+			"age": 28
+		},
+		{
+			"name": "testName4",
+			"age": 30
 		}
-    ]
+	]
 }
